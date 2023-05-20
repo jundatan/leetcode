@@ -1,5 +1,5 @@
 # leetcode
-Here are all my solutions for leetcode (Java & Python)
+Here are all my solutions for leetcode (Java, SQL & Python)
 
 (If there are any code referenced, it will be in a comment at the top of the code)
 
